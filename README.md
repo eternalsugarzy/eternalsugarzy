@@ -21,14 +21,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eternalsugarzy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 👨‍💻 About Me
 
 ```yaml
@@ -46,7 +38,7 @@ expertise:
 passion:
   - 🚀 Designing scalable backend architectures & high-performance APIs
   - 🧩 Transforming complex business logics into clean, maintainable systems
-  - ⚡ Active participant in the 100 Days 100 Projects developer sprint
+  - ⚡ Active participant in building practical web & service solutions
 ```
 
 ---
@@ -54,7 +46,7 @@ passion:
 ### 🛠️ Core Tech Stack & Tools
 
 <div align="center">
-  <p><b>Technologies I work with daily:</b></p>
+  <p><b>Technologies I work with:</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,ts,js,python,django,flask,java,mysql,postgres,mongodb,redis,sqlite,git,github,postman,vscode,linux&perline=10&theme=dark" alt="Skill Icons" />
   </a>
@@ -99,55 +91,60 @@ passion:
 
 ### 📌 Featured Repositories
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/eternalsugarzy/WebInformasiSekolah">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=eternalsugarzy&repo=WebInformasiSekolah&theme=tokyonight&border_radius=10" alt="WebInformasiSekolah" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/eternalsugarzy/squad-builder-fc26">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=eternalsugarzy&repo=squad-builder-fc26&theme=tokyonight&border_radius=10" alt="squad-builder-fc26" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/eternalsugarzy/WebTicketingKalsel">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=eternalsugarzy&repo=WebTicketingKalsel&theme=tokyonight&border_radius=10" alt="WebTicketingKalsel" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/eternalsugarzy/money-tracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=eternalsugarzy&repo=money-tracker&theme=tokyonight&border_radius=10" alt="money-tracker" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏫 <a href="https://github.com/eternalsugarzy/WebInformasiSekolah">WebInformasiSekolah</a></h4>
+      <p>Sistem Informasi & Portal Manajemen Sekolah interaktif dengan backend PHP & MySQL, dilengkapi panel admin untuk berita, guru, galeri, dan PPDB.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚽ <a href="https://github.com/eternalsugarzy/squad-builder-fc26">squad-builder-fc26</a></h4>
+      <p>Aplikasi web interaktif pembangun formasi skuad sepak bola modern berbasis TypeScript dengan pengalaman visual responsif.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Web_App-Interactive-blue?style=flat-square" alt="Web App" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎫 <a href="https://github.com/eternalsugarzy/WebTicketingKalsel">WebTicketingKalsel</a></h4>
+      <p>Aplikasi reservasi tiket online dan manajemen tiket terintegrasi untuk layanan perjalanan / acara di Kalimantan Selatan.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/E--Ticketing-System-green?style=flat-square" alt="E-Ticketing" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💰 <a href="https://github.com/eternalsugarzy/money-tracker">money-tracker</a></h4>
+      <p>Aplikasi pencatatan keuangan modern berbasis TypeScript untuk pelacakan anggaran, pengeluaran harian, dan pemasukan keuangan.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Finance-Tracker-orange?style=flat-square" alt="Finance" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eternalsugarzy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eternalsugarzy&theme=tokyonight" alt="Profile Details" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternalsugarzy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eternalsugarzy&theme=tokyonight" alt="Repos Per Language" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eternalsugarzy&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eternalsugarzy&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=eternalsugarzy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
