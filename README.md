@@ -103,21 +103,22 @@ passion:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚽ <a href="https://github.com/eternalsugarzy/squad-builder-fc26">squad-builder-fc26</a></h4>
-      <p>Aplikasi web interaktif pembangun formasi skuad sepak bola modern berbasis TypeScript dengan pengalaman visual responsif.</p>
+      <h4>🏛️ <a href="https://github.com/eternalsugarzy/sistem-kunjungan-dprd">sistem-kunjungan-dprd</a></h4>
+      <p>Sistem Informasi Manajemen Kunjungan Kerja DPRD untuk pencatatan delegasi tamu, verifikasi agenda kerja, dan pelaporan dinas terintegrasi.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Web_App-Interactive-blue?style=flat-square" alt="Web App" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Government-System-indigo?style=flat-square" alt="System" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎫 <a href="https://github.com/eternalsugarzy/WebTicketingKalsel">WebTicketingKalsel</a></h4>
-      <p>Aplikasi reservasi tiket online dan manajemen tiket terintegrasi untuk layanan perjalanan / acara di Kalimantan Selatan.</p>
+      <h4>🎫 <a href="https://github.com/eternalsugarzy/eticket-skripsi">eticket-skripsi</a></h4>
+      <p>Aplikasi sistem pemesanan & manajemen e-ticketing terpadu berbasis web yang dikembangkan untuk proyek tugas akhir / skripsi.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/E--Ticketing-System-green?style=flat-square" alt="E-Ticketing" />
+        <img src="https://img.shields.io/badge/E--Ticketing-Final_Project-green?style=flat-square" alt="E-Ticketing" />
       </p>
     </td>
     <td width="50%" valign="top">
